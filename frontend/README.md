@@ -1,3 +1,11 @@
+# Service Desk Application
+
+This is a Full Stack MERN Application service desk application to register a compalaint and see the other complaints registered by the user.
+
+# Technologies Used
+
+React.js, Node.js, Express.js, Mongo DB
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
