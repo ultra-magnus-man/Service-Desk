@@ -11,9 +11,9 @@ const app = express();
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 
-app.get("/", (req, res) => {
-  res.status(200).json({ message: "Welcome to Support Desk API" });
-});
+// app.get("/", (req, res) => {
+//   res.status(200).json({ message: "Welcome to Support Desk API" });
+// });
 
 //Routes
 //We hve mentioned the path here that is why we don't need to mention the path in userRoutes
